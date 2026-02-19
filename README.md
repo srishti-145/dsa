@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
 ## Array
@@ -19,9 +20,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
+| [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
