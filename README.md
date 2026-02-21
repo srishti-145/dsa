@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
