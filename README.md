@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/srishti-145/dsa/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/srishti-145/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
 | [0119-pascals-triangle-ii](https://github.com/srishti-145/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/srishti-145/dsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
