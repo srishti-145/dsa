@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srishti-145/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srishti-145/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srishti-145/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srishti-145/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srishti-145/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srishti-145/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
