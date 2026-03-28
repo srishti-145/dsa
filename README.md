@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti-145/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/srishti-145/dsa/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/srishti-145/dsa/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/srishti-145/dsa/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishti-145/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/srishti-145/dsa/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/srishti-145/dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
