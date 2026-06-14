@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/srishti-145/dsa/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/srishti-145/dsa/tree/master/0061-rotate-list) |
+| [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
