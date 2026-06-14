@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
