@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishti-145/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/srishti-145/dsa/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/srishti-145/dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishti-145/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/srishti-145/dsa/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
