@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/srishti-145/dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/srishti-145/dsa/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/srishti-145/dsa/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishti-145/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/srishti-145/dsa/tree/master/0061-rotate-list) |
+| [0165-compare-version-numbers](https://github.com/srishti-145/dsa/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
