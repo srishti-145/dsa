@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/srishti-145/dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/srishti-145/dsa/tree/master/0044-wildcard-matching) |
+| [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/srishti-145/dsa/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/srishti-145/dsa/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/srishti-145/dsa/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
+| [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
