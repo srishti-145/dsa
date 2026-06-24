@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/srishti-145/dsa/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srishti-145/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/srishti-145/dsa/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/srishti-145/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/srishti-145/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/srishti-145/dsa/tree/master/0119-pascals-triangle-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/srishti-145/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/srishti-145/dsa/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/srishti-145/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/srishti-145/dsa/tree/master/0059-spiral-matrix-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/srishti-145/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
 ## Queue
