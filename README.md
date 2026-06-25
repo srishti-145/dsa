@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/srishti-145/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/srishti-145/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/srishti-145/dsa/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srishti-145/dsa/tree/master/0238-product-of-array-except-self) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/srishti-145/dsa/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
