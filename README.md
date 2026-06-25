@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srishti-145/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/srishti-145/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/srishti-145/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/srishti-145/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/srishti-145/dsa/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srishti-145/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -212,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/srishti-145/dsa/tree/master/2104-sum-of-subarray-ranges) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
