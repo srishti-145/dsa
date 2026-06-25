@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/srishti-145/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/srishti-145/dsa/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srishti-145/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srishti-145/dsa/tree/master/0238-product-of-array-except-self) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/srishti-145/dsa/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srishti-145/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/srishti-145/dsa/tree/master/0168-excel-sheet-column-title) |
 ## Linked List
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/srishti-145/dsa/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srishti-145/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2104-sum-of-subarray-ranges](https://github.com/srishti-145/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
