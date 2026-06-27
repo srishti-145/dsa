@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/srishti-145/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/srishti-145/dsa/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/srishti-145/dsa/tree/master/0525-contiguous-array) |
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/srishti-145/dsa/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/srishti-145/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/srishti-145/dsa/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/srishti-145/dsa/tree/master/1732-find-the-highest-altitude) |
