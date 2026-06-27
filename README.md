@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/srishti-145/dsa/tree/master/1732-find-the-highest-altitude) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/srishti-145/dsa/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/srishti-145/dsa/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishti-145/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/srishti-145/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0523-continuous-subarray-sum](https://github.com/srishti-145/dsa/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
