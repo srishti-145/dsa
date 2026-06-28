@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti-145/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/srishti-145/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/srishti-145/dsa/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srishti-145/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti-145/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
