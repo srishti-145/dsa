@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/srishti-145/dsa/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srishti-145/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srishti-145/dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/srishti-145/dsa/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srishti-145/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srishti-145/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/srishti-145/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/srishti-145/dsa/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2453-destroy-sequential-targets](https://github.com/srishti-145/dsa/tree/master/2453-destroy-sequential-targets) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
