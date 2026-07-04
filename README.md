@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srishti-145/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/srishti-145/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1768-merge-strings-alternately](https://github.com/srishti-145/dsa/tree/master/1768-merge-strings-alternately) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3612-process-string-with-special-operations-i](https://github.com/srishti-145/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srishti-145/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srishti-145/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/srishti-145/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/srishti-145/dsa/tree/master/2090-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srishti-145/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/srishti-145/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/srishti-145/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srishti-145/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srishti-145/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/srishti-145/dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
 | ------- |
