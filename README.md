@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/srishti-145/dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1768-merge-strings-alternately](https://github.com/srishti-145/dsa/tree/master/1768-merge-strings-alternately) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srishti-145/dsa/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/srishti-145/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/srishti-145/dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2762-continuous-subarrays](https://github.com/srishti-145/dsa/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/srishti-145/dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/srishti-145/dsa/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
