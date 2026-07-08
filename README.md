@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2453-destroy-sequential-targets](https://github.com/srishti-145/dsa/tree/master/2453-destroy-sequential-targets) |
 | [2762-continuous-subarrays](https://github.com/srishti-145/dsa/tree/master/2762-continuous-subarrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/srishti-145/dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/srishti-145/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/srishti-145/dsa/tree/master/3838-weighted-word-mapping) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srishti-145/dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/srishti-145/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2453-destroy-sequential-targets](https://github.com/srishti-145/dsa/tree/master/2453-destroy-sequential-targets) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/srishti-145/dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srishti-145/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/srishti-145/dsa/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/srishti-145/dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/srishti-145/dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2762-continuous-subarrays](https://github.com/srishti-145/dsa/tree/master/2762-continuous-subarrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/srishti-145/dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
