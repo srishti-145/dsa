@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/srishti-145/dsa/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishti-145/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/srishti-145/dsa/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/srishti-145/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/srishti-145/dsa/tree/master/1035-uncrossed-lines) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/srishti-145/dsa/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/srishti-145/dsa/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishti-145/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/srishti-145/dsa/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/srishti-145/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srishti-145/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srishti-145/dsa/tree/master/0229-majority-element-ii) |
