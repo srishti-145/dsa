@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishti-145/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishti-145/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/srishti-145/dsa/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/srishti-145/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [1092-shortest-common-supersequence](https://github.com/srishti-145/dsa/tree/master/1092-shortest-common-supersequence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/srishti-145/dsa/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/srishti-145/dsa/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srishti-145/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/srishti-145/dsa/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/srishti-145/dsa/tree/master/0763-partition-labels) |
 | [0922-sort-array-by-parity-ii](https://github.com/srishti-145/dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/srishti-145/dsa/tree/master/1768-merge-strings-alternately) |
