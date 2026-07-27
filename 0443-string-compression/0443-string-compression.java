@@ -17,9 +17,10 @@ class Solution {
             chars[write++] = currentChar;
 
            
-            if (count > 1) {
-                for (char c : String.valueOf(count).toCharArray()) {
-                    chars[write++] = c;
+           if (count > 1) {
+            String s = Integer.toString(count);
+            for (int j = 0; j < s.length(); j++) {
+                chars[write++] = s.charAt(j);
                 }
             }
         }
